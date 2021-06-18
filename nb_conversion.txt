@@ -1,0 +1,19 @@
+commands to convert jupyter notebook to pdf,or HTML document
+
+1. jupyter notebook to HTML doc
+  
+	$ jupyter nbconvert example_notebook.ipynb --to html
+
+2. jupyter notebook to HTML doc excluding code cells (includes only output of code cells)
+	
+	$ jupyter nbconvert example_notebook.ipynb --no-input --to html
+
+3. jupyter notebook to PDF doc
+
+	$ jupyter-nbconvert --to PDFviaHTML example_notebook.ipynb
+
+4.  jupyter notebook to PDF doc excluding code cells
+
+	$ jupyter-nbconvert --no-input --to PDFviaHTML example_notebook.ipynb
+
+
