@@ -1,6 +1,6 @@
 # State-wise COVID-19 analysis of India
 
-Data **exploration** and **analysis** of Coronavirus spread in Indian states is done in [**State_wise_complete_analysis_of_COVID-19.ipynb**](State_wise_complete_analysis_of_COVID-19.ipynb) notebook.
+Data **exploration** and **analysis** of Coronavirus spread in Indian states is done in [**State_wise_complete_analysis_of_COVID-19.ipynb**](https://nbviewer.jupyter.org/github/Dhruv-praju/COVID-19-Tracker/blob/main/States/State_wise_complete_analysis_of_COVID-19.ipynb) notebook.
 
 Refer [this](State_wise_complete_analysis_of_COVID-19.html) for report without including code.
 
