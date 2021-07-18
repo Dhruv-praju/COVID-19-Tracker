@@ -1,6 +1,6 @@
 # India's COVID-19 analysis
 
-Complete *exploratory* analysis of the **disease** and **vaccination** programme is done in notebook **[Indian_Complete_COVID-19_Analysis.ipynb](Indian_Complete_COVID-19_Analysis.ipynb)**.
+Complete *exploratory* analysis of the **disease** and **vaccination** programme is done in notebook **[Indian_Complete_COVID-19_Analysis.ipynb](https://nbviewer.jupyter.org/github/Dhruv-praju/COVID-19-Tracker/blob/main/India/Indian_Complete_COVID-19_Analysis.ipynb)**.
 
 [**Full report**](Indian_Complete_COVID-19_Analysis.html) without any code.
 
